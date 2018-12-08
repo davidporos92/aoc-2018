@@ -5,7 +5,6 @@
 $inputPath = realpath(dirname(__FILE__) . "/../input/" . basename(__DIR__) . ".txt");
 $input = file_get_contents($inputPath);
 
-echo "This one takes a little longer to process (Maybe a few minutes...). Hold on!\n";
 echo "Calulating part 1";
 echo "\nPart 1: " . count(processPolymers($input)) . "\n";
 echo "Calulating part 2";

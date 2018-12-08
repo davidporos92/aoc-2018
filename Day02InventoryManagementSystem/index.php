@@ -35,7 +35,7 @@ for($i = 0; $i < count($input) - 1; $i++) {
 
         if(strlen($boxId) + 1 == count($charsOfI)) {
             echo "Part 2: " . $boxId . "\n";
-            exit(0);
+            return;
         }
 
         $boxId = "";
