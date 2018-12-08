@@ -22,7 +22,7 @@ foreach ($infiniteCoords as $infiniteCoord) {
 echo "Part 1: " . max($coordsCount) . "\n";
 echo "Part 2: " . count(
         getFieldsWithTotalDistanceLessThan(10000, $coordinates, $max)
-    );
+    ) . "\n";
 
 /**
  * @param int $x

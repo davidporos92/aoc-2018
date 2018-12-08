@@ -1,5 +1,10 @@
 {
     "require": {
         "carbondate/carbon": "^1.33"
+    },
+    "autoload": {
+        "files": [
+            "helpers.php"
+        ]
     }
 }
