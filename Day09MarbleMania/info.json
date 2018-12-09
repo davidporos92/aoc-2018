@@ -1,0 +1,6 @@
+{
+  "day": 9,
+  "title": "Marble Mania",
+  "additionalInfo": "Unfortunately the second part of the puzzle did not worked on my computer in PHP because of memory limits :(\n(I've ported to GO, and get the answer from there. Same code, same logic, just in GO)",
+  "mainFile": "index.php"
+}
