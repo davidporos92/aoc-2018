@@ -1,6 +1,6 @@
 {
   "day": 11,
   "title": "Chronal Charge",
-  "additionalInfo": "Calulating the part 2 takes a few mintes (~10-12)",
+  "additionalInfo": "Calulating the part 2 takes hours in PHP.\nGo runs much faster, use that if you can. :)",
   "mainFile": "index.php"
 }
